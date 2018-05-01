@@ -1,2 +1,3 @@
-# explorador_cartografico
-Cartographic explorer for Spanish administrative data (R: shiny + leaflet)
+# Explorador cartográfico
+
+Cartographic explorer for Spanish administrative data using R (shiny + leaflet).
